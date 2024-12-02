@@ -45,10 +45,15 @@
 #mv command 
 #ai command cp er motoi, kintu cp te copy hoye move hoito. ar mv diye cut hoye move hoy.
 # syntext : mv moving_file [folder_name or path]
+# mv index.html "C:\Users\LENOVO\Desktop"
 
 #mv command diye rename o kora jay 
-# syntext : cp real_file rename
+# syntext : mv real_file rename
+# mv app.js index.js
 
+# move + rename
+# syntext : mv real_file ...path/rename_file_name.ext
+# mv index.js "C:\Users\LENOVO\Desktop\server.js"
 
 #rm command 
 # ai command diye jekono file remove kora hoy . folder remove kora jay na
