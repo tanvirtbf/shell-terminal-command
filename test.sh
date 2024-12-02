@@ -55,6 +55,8 @@
 # syntext : mv real_file ...path/rename_file_name.ext
 # mv index.js "C:\Users\LENOVO\Desktop\server.js"
 
+# Important Note ---- mouse diye kono file delete, move egula korle ctrl+z diye back asha jay kintu command line diye file delete move korle back asha jay na ctrl+z diye
+
 #rm command 
 # ai command diye jekono file remove kora hoy . folder remove kora jay na
 
