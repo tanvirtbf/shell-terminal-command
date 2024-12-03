@@ -61,7 +61,7 @@
 # ai command diye jekono file remove kora hoy . folder remove kora jay na
 
 #rmdir command
-# ai command diye empty folder delete kora hoy
+# ai command diye empty folder delete kora hoy. jodi kono folder er vitore file folder thake tahole rmdir diye parent folder ke delete kora jay na
 
 #rm -r command 
 # ai command diye jekono folder jar vitor nested theke nested file folder ase airokom folder delete korar jonno use hoy
@@ -69,6 +69,13 @@
 
 # eksathe 1 hajar file create kora : 
 # for i in {1..1000}; do touch "app$i.js"; done
+# for i in {1..100}; do rmdir "hello$i"; done
 
 # delete all 1000 file
 # for i in {1..1000}; do rm "app$i.js"; done
+
+# File Read and Edit
+
+
+
+
