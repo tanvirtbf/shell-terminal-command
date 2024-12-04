@@ -76,8 +76,11 @@
 # File Read and Edit
 # cat test.sh ---- ai code diye test.sh er vitor sob content read hobe
 
-# edit korar jonno 2 ta command ache . 1. Nano Command 2. VM command 
+# edit korar jonno 2 ta command ache . 1. Nano Command 2. Vim command 
 # 1. Nano Command 
 # jodi index.js file er vitor content change korte chai tahole...
 # nano index.js ---- ai code bash e run korle edit korar option aisha porbe
 
+# 2. Vim Command
+# jodi index.js file er vitor content change korte chai tahole...
+# vim index.js ---- ai code bash e run korle edit mode on hoye jay and then..
