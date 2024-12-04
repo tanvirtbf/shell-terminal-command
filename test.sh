@@ -89,6 +89,9 @@
 # insert mode kokhon on hoy? jokhon "i" type kori tokhon insert mode on hoye jay. insert mode e amra type korte pari . othoba jekono kisu type kora start korlei insert mode on hoye jay . kintu jokhon escape button click kori tokhon normal mode on hoye jay 
 # normal mode e jauyar por shift+colon(L er right button) click korte hobe . tarpor ja change korsi seta save korte hobe . save korar jonno w likhe enter press korte hobe. tahole save hoye jabe . then abaro shift+colon click kore colon ante hobe, then sekhane q likhe enter korle vim theke ber hoye jabe 
 
+# file e kichu change korar por jodi save na korte chai jate changes gula file e reflect na hoy tahole...
+# jodi save na koreii exit korte chai tahole shift+colon click korar por sekhane q! likhe enter dite hobe. tahole kono change reflect hobe na file er moddhe
 
-
+# jodi changes gula save na koreii exit korte chai and sei changes reflect korte chai...
+# shift+colon => wq => enter button click --- tahole save na koreii exit + update kora hoy
 
