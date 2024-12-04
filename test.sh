@@ -66,7 +66,6 @@
 #rm -r command 
 # ai command diye jekono folder jar vitor nested theke nested file folder ase airokom folder delete korar jonno use hoy
 
-
 # eksathe 1 hajar file create kora : 
 # for i in {1..1000}; do touch "app$i.js"; done
 # for i in {1..100}; do rmdir "hello$i"; done
@@ -75,7 +74,10 @@
 # for i in {1..1000}; do rm "app$i.js"; done
 
 # File Read and Edit
+# cat test.sh ---- ai code diye test.sh er vitor sob content read hobe
 
-
-
+# edit korar jonno 2 ta command ache . 1. Nano Command 2. VM command 
+# 1. Nano Command 
+# jodi index.js file er vitor content change korte chai tahole...
+# nano index.js ---- ai code bash e run korle edit korar option aisha porbe
 
