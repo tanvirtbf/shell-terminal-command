@@ -84,3 +84,11 @@
 # 2. Vim Command
 # jodi index.js file er vitor content change korte chai tahole...
 # vim index.js ---- ai code bash e run korle edit mode on hoye jay and then..
+
+# vim mode er 2 ta state . 1. normal mode 2. insert mode
+# insert mode kokhon on hoy? jokhon "i" type kori tokhon insert mode on hoye jay. insert mode e amra type korte pari . othoba jekono kisu type kora start korlei insert mode on hoye jay . kintu jokhon escape button click kori tokhon normal mode on hoye jay 
+# normal mode e jauyar por shift+colon(L er right button) click korte hobe . tarpor ja change korsi seta save korte hobe . save korar jonno w likhe enter press korte hobe. tahole save hoye jabe . then abaro shift+colon click kore colon ante hobe, then sekhane q likhe enter korle vim theke ber hoye jabe 
+
+
+
+
